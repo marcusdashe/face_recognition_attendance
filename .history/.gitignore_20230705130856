@@ -1,0 +1,15 @@
+# Ignore Python virtual environment files
+venv/
+env/
+.venv/
+.env/
+
+# Ignore pipenv files
+Pipfile.lock
+
+# Ignore other commonly ignored files
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
